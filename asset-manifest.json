@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bible-love/static/css/main.6382cf4a.css",
-    "main.js": "/bible-love/static/js/main.3af98d1e.js",
+    "main.js": "/bible-love/static/js/main.e9b84798.js",
     "static/media/bible.png": "/bible-love/static/media/bible.a285688d442b64cd1974.png",
     "static/media/auther.png": "/bible-love/static/media/auther.e54467131bea7d0ef094.png",
     "static/media/mystery-3.png": "/bible-love/static/media/mystery-3.701c594ef4dc20d183de.png",
@@ -10,10 +10,10 @@
     "static/media/mystery-2.png": "/bible-love/static/media/mystery-2.28b58103d4c7d71a0792.png",
     "index.html": "/bible-love/index.html",
     "main.6382cf4a.css.map": "/bible-love/static/css/main.6382cf4a.css.map",
-    "main.3af98d1e.js.map": "/bible-love/static/js/main.3af98d1e.js.map"
+    "main.e9b84798.js.map": "/bible-love/static/js/main.e9b84798.js.map"
   },
   "entrypoints": [
     "static/css/main.6382cf4a.css",
-    "static/js/main.3af98d1e.js"
+    "static/js/main.e9b84798.js"
   ]
 }
