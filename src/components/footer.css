@@ -1,0 +1,48 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 70px;
+  line-height: 70px;
+  width: 100%;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background: #f5f7ff;
+  height: 160px;
+}
+
+.footer_info {
+  align-self: center;
+  display: flex;
+  height: 80px;
+  width: 1140px;
+}
+.footer_info_mail {
+  color: #0c1523;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.footer_info_links {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-right: 0;
+}
+
+.footer_info_link {
+  margin-left: 10px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background: #fff;
+  text-align: center;
+}
+
+.footer_year {
+  height: 80px;
+  background: #0c1523;
+  text-align: center;
+  color: white;
+}

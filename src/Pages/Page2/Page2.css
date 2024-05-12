@@ -1,0 +1,33 @@
+.chapter_block {
+  width: 500px;
+}
+.row {
+  display: flex;
+  background-color: bisque;
+}
+
+.row:hover {
+  background-color: burlywood;
+  cursor: pointer;
+}
+
+.cards_container {
+  margin: 50px 0 200px;
+  display: flex;
+}
+
+.examples_button {
+  width: 100px;
+  height: 40px;
+  font-size: 14px;
+  background-color: #0c1523 !important;
+  border-radius: 10px;
+  color: white !important;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.examples_button:hover {
+  background-color: #6d6e70 !important;
+}

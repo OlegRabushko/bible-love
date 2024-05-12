@@ -1,0 +1,25 @@
+.header {
+  height: 70px;
+  line-height: 70px;
+}
+
+.divider {
+  position: absolute;
+  border-bottom: 1px solid #e7e7e7;
+  width: 100%;
+  left: 0;
+}
+
+.header a {
+  font-size: 18px;
+  text-decoration: none;
+  color: #0c1523;
+}
+
+.header a:hover {
+  color: #767d8a;
+}
+
+.first_link {
+  margin-right: 30px;
+}
