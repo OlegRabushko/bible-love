@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/OlegRabushko/bible-love/static/css/main.6382cf4a.css",
+    "main.js": "/OlegRabushko/bible-love/static/js/main.2730ba30.js",
+    "static/media/bible.png": "/OlegRabushko/bible-love/static/media/bible.a285688d442b64cd1974.png",
+    "static/media/auther.png": "/OlegRabushko/bible-love/static/media/auther.e54467131bea7d0ef094.png",
+    "static/media/mystery-3.png": "/OlegRabushko/bible-love/static/media/mystery-3.701c594ef4dc20d183de.png",
+    "static/media/mystery-1.png": "/OlegRabushko/bible-love/static/media/mystery-1.36330267a55e8e2c7d74.png",
+    "static/media/search.png": "/OlegRabushko/bible-love/static/media/search.c74d81b1700c6a71f912.png",
+    "static/media/mystery-2.png": "/OlegRabushko/bible-love/static/media/mystery-2.28b58103d4c7d71a0792.png",
+    "index.html": "/OlegRabushko/bible-love/index.html",
+    "main.6382cf4a.css.map": "/OlegRabushko/bible-love/static/css/main.6382cf4a.css.map",
+    "main.2730ba30.js.map": "/OlegRabushko/bible-love/static/js/main.2730ba30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6382cf4a.css",
+    "static/js/main.2730ba30.js"
+  ]
+}
